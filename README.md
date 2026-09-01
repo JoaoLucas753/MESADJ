@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31672059/README.md)
-# MESADJ# Mesa de DJ Multithread
+# MESADJ
 
 Simulador de uma mesa de DJ onde diferentes faixas musicais (instrumentos)
 tocam simultaneamente, cada uma em sua própria thread, de forma
