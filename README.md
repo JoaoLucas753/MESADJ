@@ -22,10 +22,9 @@ pausando e retomando a reprodução sem afetar as demais.
 1. Tenha o **Python 3.10 ou superior** instalado.
 2. Abra o terminal na pasta do projeto.
 3. Instale o Pygame:
-
 ```bash
 pip install pygame
-
+```
 ## Comandos disponíveis
 
 | Comando           | O que faz                                  |
