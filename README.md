@@ -19,12 +19,12 @@ pausando e retomando a reprodução sem afetar as demais.
   dorme enquanto pausada, em vez de ficar checando o tempo todo).
 
 ## Como rodar (Python)
+1. Tenha o **Python 3.10 ou superior** instalado.
+2. Abra o terminal na pasta do projeto.
+3. Instale o Pygame:
 
 ```bash
-python3 dj_mesa.py
-```
-
-Não precisa instalar nada além do Python padrão.
+pip install pygame
 
 ## Comandos disponíveis
 
